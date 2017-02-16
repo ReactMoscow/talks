@@ -60,7 +60,7 @@ Think about where you need your laptop positioned for advancing slides based on 
 
 ---
 
-[More details on meetup.com](http://www.meetup.com/React-Moscow-Meetup/
+[More details on meetup.com](http://www.meetup.com/React-Moscow-Meetup/)
 
 We're always looking for new talks, preferably between 15-30 minutes in length, but shorter ones are great too.
 
