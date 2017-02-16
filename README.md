@@ -64,9 +64,9 @@ Think about where you need your laptop positioned for advancing slides based on 
 
 We're always looking for new talks, preferably between 15-30 minutes in length, but shorter ones are great too.
 
-### Theme
+### Themes
 
-Some interesting themes and topics:
+Some interesting themes and topics for future talks:
 
 + Global React.js conferences - talks and recap
 
