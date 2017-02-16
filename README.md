@@ -16,6 +16,10 @@ Once you've got a talk idea, open a new Issue by [clicking here](https://github.
 
 _Alternatively_, if you're uncomfortable posting your idea publicly, you can email us directly: `hi at react.moscow`
 
+_Alternatively_, if you don't have account on GitHub - feel free to fill the form:
+
++ https://goo.gl/forms/hGbuCn35JpetxFt73
+
 Make sure you fill out the following information:
 
 * Talk Date
