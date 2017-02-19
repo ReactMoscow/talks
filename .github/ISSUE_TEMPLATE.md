@@ -1,6 +1,3 @@
-## Talk Date
-
-
 ## Talk Title
 
 
