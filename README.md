@@ -72,7 +72,7 @@ We're always looking for new talks, preferably between 15-30 minutes in length, 
 
 Would you like to suggest any things which you'd like to know or just to hear about? Do you know some things could be interesting for the community?
 
-Write about it in comments to [this issue](https://github.com/ReactMoscow/issues/2).
+Write about it in comments to [this issue](https://github.com/ReactMoscow/talks/issues/2).
 
 Some interesting themes and topics for future talks:
 
