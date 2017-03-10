@@ -22,7 +22,6 @@ _Alternatively_, if you don't have account on GitHub - feel free to fill the fo
 
 Make sure you fill out the following information:
 
-* Talk Date
 * Talk Title
 * Length
 * Twitter-sized Overview (140 characters)
